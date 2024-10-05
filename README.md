@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your Go CLI weather forecast project. You can modify it as needed to fit your project and add more details as required.
 
-```markdown
 # Weather Forecast CLI Application 🌤️
 
 This is a simple Go-based CLI application that fetches and displays current and hourly weather forecast data for a specified location using the [WeatherAPI](https://www.weatherapi.com/).
