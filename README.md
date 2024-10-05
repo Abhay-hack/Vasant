@@ -64,7 +64,7 @@ To use this application, you need to sign up for a free API key at [WeatherAPI](
 export WEATHER_API_KEY=your_api_key
 ```
 
-##Technologies Used
+## Technologies Used
 - Go Language
 - [WeatherAPI](https://www.weatherapi.com/)
 
