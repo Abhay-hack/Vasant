@@ -1,4 +1,3 @@
-
 # Weather Forecast CLI Application 🌤️
 
 This is a simple Go-based CLI application that fetches and displays current and hourly weather forecast data for a specified location using the [WeatherAPI](https://www.weatherapi.com/).
@@ -14,7 +13,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-cli-app.git
+   git clone https://github.com/Abhay-hack/weather-cli-app.git
    cd weather-cli-app
    ```
 
@@ -80,5 +79,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 **Author**: Abhay Gupta
 ```
-
-Replace placeholders like `your-username` and `YOUR_API_KEY` with your actual GitHub username and WeatherAPI key. Let me know if you need help with any specific sections or want to include more information!
