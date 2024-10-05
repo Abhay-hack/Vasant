@@ -64,13 +64,9 @@ To use this application, you need to sign up for a free API key at [WeatherAPI](
 export WEATHER_API_KEY=your_api_key
 ```
 
-## Future Improvements
-- Add support for extended forecast (up to 7 days).
-- Allow user to configure output formats (e.g., JSON, plain text).
-- Add unit tests for error handling and JSON parsing.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+##Technologies Used
+- Go Language
+- [WeatherAPI](https://www.weatherapi.com/)
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
