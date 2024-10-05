@@ -1,14 +1,14 @@
-# Weather Forecast CLI Application 🌤️
+# Vasant 🌤️
 
 This is a simple Go-based CLI application that fetches and displays current and hourly weather forecast data for a specified location using the [WeatherAPI](https://www.weatherapi.com/).
 
-## Features
+## ✨ Features
 - Fetches current weather details and displays temperature and condition.
 - Provides an hourly forecast for the next 24 hours.
 - Highlights forecast hours with a high chance of rain using colored output.
 - Supports dynamic location input through command-line arguments.
 
-## Installation
+## 🚨 Installation
 To run this project locally, follow these steps:
 
 1. Clone the repository:
@@ -64,11 +64,11 @@ To use this application, you need to sign up for a free API key at [WeatherAPI](
 export WEATHER_API_KEY=your_api_key
 ```
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Go Language
 - [WeatherAPI](https://www.weatherapi.com/)
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
 ---
