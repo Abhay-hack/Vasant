@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 3. Build the application:
    ```bash
-   go build -o weather
+   go build -o weather.exe
    ```
 
 4. Set up your environment variable for the Weather API key:
